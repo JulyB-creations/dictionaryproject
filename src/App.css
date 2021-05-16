@@ -1,6 +1,8 @@
 .App {
   text-align: left;
   background: rgb(201, 234, 245);
+  margin: 0 auto;
+  max-width: 960px;
 }
 
 .App-header{
